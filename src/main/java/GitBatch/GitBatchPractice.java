@@ -5,7 +5,7 @@ public class GitBatchPractice {
 System.out.println("poorna");
 System.out.println(" Hi vijay hello hi hello");
 System.out.println("India");
-System.out.println("Bagalkot");
+
 
 }
 }
